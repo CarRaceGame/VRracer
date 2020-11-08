@@ -1,0 +1,101 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl GlassMtl
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl GlassDarkMtl
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl Textured2A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl TexturedA
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl paint3Mtl
+Kd 0.2863 0.2863 0.2863
+Ks 0 0 0
+
+newmtl paint2Mtl
+Kd 0 0.0275 0.1333
+Ks 0 0 0
+
+newmtl Lights
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl interior_o
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl interior
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille8A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille7A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille6A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille5A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille4A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille3A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Grille2A
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl engine_o
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl engine
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Coloured
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl Base
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl BadgeA
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl Wheel1A
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl ColouredMtl
+Kd 0.0196 0.0196 0.0196
+Ks 0 0 0
+
+newmtl paint1Mtl
+Kd 0.5294 0.5333 0.0745
+Ks 0 0 0
+
+newmtl CalliperBadgeBMtl
+Kd 0 0 0
+Ks 0 0 0
